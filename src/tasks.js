@@ -1,4 +1,4 @@
-// CampusEats task list 
+// CampusEats task lists 
 const tasks = [ 
   "Design the menu screen", 
   "Build the orders API", 
