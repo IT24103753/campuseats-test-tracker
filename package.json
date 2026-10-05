@@ -1,0 +1,21 @@
+{
+  "name": "campuseats-test-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT24103753/campuseats-test-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IT24103753/campuseats-test-tracker/issues"
+  },
+  "homepage": "https://github.com/IT24103753/campuseats-test-tracker#readme"
+}
